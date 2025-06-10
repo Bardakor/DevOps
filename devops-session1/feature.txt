@@ -1,3 +1,4 @@
-This is a new feature file created in the feature branch.
-It contains some sample content to demonstrate Git workflow.
-Created on: 2025-06-06
+This is a dev branch file.
+It was edited directly on GitHub (simulated locally).
+This might conflict with the feature branch.
+Modified on: 2025-06-06
