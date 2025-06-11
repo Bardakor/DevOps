@@ -1,0 +1,14 @@
+{
+  "name": "github-pipeline-demo",
+  "version": "1.0.0",
+  "description": "A simple project to demonstrate GitHub Actions pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js",
+    "lint": "echo 'Linting complete'"
+  },
+  "keywords": ["github-actions", "devops", "pipeline"],
+  "author": "Liam",
+  "license": "MIT"
+}
