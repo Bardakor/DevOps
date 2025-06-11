@@ -39,3 +39,4 @@ This project includes a GitHub Actions workflow that:
 
 The workflow file is located at `.github/workflows/ci.yml`.
 🚀 Pipeline triggered on Wed Jun 11 18:04:42 CEST 2025
+✅ GitHub Actions pipeline now active on dev branch - Wed Jun 11 18:10:27 CEST 2025
