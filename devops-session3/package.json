@@ -10,5 +10,8 @@
   },
   "keywords": ["github-actions", "devops", "pipeline"],
   "author": "Liam",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
